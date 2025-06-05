@@ -6634,3 +6634,72 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:12:30] [Server thread/INFO]: [A1lenSS: Set AlonsoVanDeKap's game mode to Survival Mode]
 [23:12:30] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -19, 72, -408, minecraft:the_nether
 [23:13:24] [Server thread/INFO]: A1lenSS has made the advancement [War Pigs]
+[23:14:17] [Server thread/INFO]: A1lenSS has made the advancement [Cover Me with Diamonds]
+[23:14:59] [Server thread/INFO]: AlonsoVanDeKap lost connection: Disconnected
+[23:14:59] [Server thread/INFO]: AlonsoVanDeKap left the game
+[23:14:59] [Server thread/INFO]: remove player wand
+[23:14:59] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:15:02] [Server thread/INFO]: [Handshake] Sending channel query
+[23:15:02] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[23:15:02] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[23:15:02] [Server thread/INFO]: AlonsoVanDeKap[/127.184.0.244:51931] logged in with entity id 132948 at (-25.855707553698732, 90.0, -421.26976572730814)
+[23:15:02] [Server thread/INFO]: Sending server config values to client
+[23:15:02] [Server thread/INFO]: Syncing config to AlonsoVanDeKap (64c63124-ce40-32e5-ac7e-34fda48b4ffc)
+[23:15:02] [Server thread/INFO]: Loading config from file...
+[23:15:02] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:15:02] [Server thread/INFO]: AlonsoVanDeKap joined the game
+[23:15:02] [Server thread/INFO]: Loading Configs for Sortilege
+[23:15:02] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:15:02] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:15:02] [Server thread/INFO]: PLAYER_JOIN
+[23:15:02] [Server thread/INFO]: add_player wand
+[23:15:02] [Server thread/INFO]: config sent
+[23:15:03] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[23:15:04] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: AlonsoVanDeKap -> Global
+[23:15:04] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player AlonsoVanDeKap. Claiming: GRAVE / Robbing: INVENTORY
+[23:15:08] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[23:18:02] [Server thread/INFO]: AlonsoVanDeKap lost connection: Timed out
+[23:18:02] [Server thread/INFO]: AlonsoVanDeKap left the game
+[23:18:02] [Server thread/INFO]: remove player wand
+[23:18:02] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:18:02] [Server thread/WARN]: handleDisconnection() called twice
+[23:20:51] [Server thread/INFO]: [Handshake] Sending channel query
+[23:20:51] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[23:20:51] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[23:20:51] [Server thread/INFO]: AlonsoVanDeKap[/127.184.0.244:33539] logged in with entity id 135272 at (-25.855707553698732, 90.0, -421.26976572730814)
+[23:20:51] [Server thread/INFO]: Sending server config values to client
+[23:20:51] [Server thread/INFO]: Syncing config to AlonsoVanDeKap (64c63124-ce40-32e5-ac7e-34fda48b4ffc)
+[23:20:51] [Server thread/INFO]: Loading config from file...
+[23:20:51] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:20:51] [Server thread/INFO]: AlonsoVanDeKap joined the game
+[23:20:51] [Server thread/INFO]: Loading Configs for Sortilege
+[23:20:51] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:20:51] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:20:51] [Server thread/INFO]: PLAYER_JOIN
+[23:20:51] [Server thread/INFO]: add_player wand
+[23:20:51] [Server thread/INFO]: config sent
+[23:20:52] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[23:21:23] [Server thread/INFO]: AlonsoVanDeKap lost connection: Disconnected
+[23:21:23] [Server thread/INFO]: AlonsoVanDeKap left the game
+[23:21:23] [Server thread/INFO]: remove player wand
+[23:21:23] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:21:25] [Server thread/INFO]: [Handshake] Sending channel query
+[23:21:25] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[23:21:25] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[23:21:25] [Server thread/INFO]: AlonsoVanDeKap[/127.184.0.244:55573] logged in with entity id 135581 at (-25.855707553698732, 90.0, -421.26976572730814)
+[23:21:25] [Server thread/INFO]: Sending server config values to client
+[23:21:25] [Server thread/INFO]: Syncing config to AlonsoVanDeKap (64c63124-ce40-32e5-ac7e-34fda48b4ffc)
+[23:21:25] [Server thread/INFO]: Loading config from file...
+[23:21:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:21:25] [Server thread/INFO]: AlonsoVanDeKap joined the game
+[23:21:25] [Server thread/INFO]: Loading Configs for Sortilege
+[23:21:25] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:21:25] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:21:25] [Server thread/INFO]: PLAYER_JOIN
+[23:21:25] [Server thread/INFO]: add_player wand
+[23:21:25] [Server thread/INFO]: config sent
+[23:21:26] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[23:22:34] [Server thread/INFO]: AlonsoVanDeKap lost connection: Disconnected
+[23:22:34] [Server thread/INFO]: AlonsoVanDeKap left the game
+[23:22:34] [Server thread/INFO]: remove player wand
+[23:22:34] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc

@@ -5879,6 +5879,7 @@
       "minecraft:skeleton": "2025-06-05 00:07:17 +0000",
       "minecraft:ghast": "2025-06-05 22:28:15 +0000",
       "minecraft:spider": "2025-06-05 01:46:15 +0000",
+      "minecraft:piglin_brute": "2025-06-05 23:12:20 +0000",
       "minecraft:creeper": "2025-06-05 02:23:10 +0000",
       "minecraft:witch": "2025-06-05 01:39:07 +0000",
       "minecraft:wither_skeleton": "2025-06-05 23:10:12 +0000",
@@ -11544,6 +11545,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
@@ -11556,9 +11563,21 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/bamboo_support": {
     "criteria": {
       "has_plank": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -11600,6 +11619,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-05 23:14:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-05 23:07:21 +0000"
@@ -11624,6 +11649,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_candle_from_green_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -11636,6 +11667,12 @@
       "glistering_meadow": "2025-06-05 22:24:34 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/chemical_reactor/red_wool_from_pink_wool_with_red_dye": {
     "criteria": {
@@ -11712,6 +11749,12 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2025-06-05 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-05 23:14:06 +0000"
     },
     "done": true
   },
@@ -11811,6 +11854,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
@@ -11826,6 +11875,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -11937,6 +11992,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-06-05 23:13:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
@@ -11988,6 +12055,12 @@
   "techreborn:recipes/industrial_sawmill/jungle_slab_from_stairs": {
     "criteria": {
       "has_jungle_stairs": "2025-06-05 19:17:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -12054,6 +12127,12 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -12369,6 +12448,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-06-05 21:25:46 +0000"
@@ -12408,6 +12493,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -12507,6 +12598,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-05 23:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-06-05 21:05:25 +0000"
@@ -12516,6 +12619,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -12628,6 +12737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-05 23:07:21 +0000"
@@ -12700,6 +12815,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-06-05 19:05:10 +0000"
@@ -12721,6 +12842,12 @@
   "betterend:recipes/misc/terminite_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -12892,6 +13019,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2025-06-05 22:35:28 +0000"
@@ -12907,6 +13040,12 @@
   "techreborn:recipes/chemical_reactor/red_wool_from_orange_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-06-05 23:14:06 +0000"
     },
     "done": true
   },
@@ -12988,6 +13127,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-05 23:07:21 +0000"
@@ -13042,6 +13193,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-06-05 19:40:47 +0000"
@@ -13057,6 +13214,12 @@
   "handcrafted:recipes/misc/white_cup": {
     "criteria": {
       "has_white_cup": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-05 23:13:24 +0000"
     },
     "done": true
   },
@@ -13096,9 +13259,27 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-05 23:14:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
     },
     "done": true
   },
@@ -13192,6 +13373,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-05 23:14:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-05 23:07:21 +0000"
@@ -13258,6 +13445,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 22:16:50 +0000"
@@ -13267,6 +13460,18 @@
   "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
     "criteria": {
       "has_blue_bioshroom": "2025-06-05 22:58:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -13420,6 +13625,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-05 23:14:15 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
     "criteria": {
       "has_core_specification_item": "2025-06-05 22:02:41 +0000"
@@ -13435,6 +13646,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-05 23:09:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -13588,6 +13805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_cushion": {
     "criteria": {
       "has_blue_cushion": "2025-06-05 21:05:25 +0000"
@@ -13690,6 +13913,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/blackstone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
@@ -13717,6 +13946,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-05 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -13876,6 +14111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
@@ -13885,6 +14126,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -13906,6 +14153,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-05 23:14:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-06-05 19:33:15 +0000"
@@ -13915,6 +14168,12 @@
   "techreborn:recipes/chemical_reactor/lime_candle_from_green_candle_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -13942,6 +14201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_desk": {
     "criteria": {
       "has_bamboo_desk": "2025-06-05 18:57:25 +0000"
@@ -13951,6 +14216,12 @@
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
     },
     "done": true
   },
@@ -14134,9 +14405,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -14248,6 +14537,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
     "criteria": {
       "has_blue_wool": "2025-06-05 21:05:25 +0000"
@@ -14296,9 +14591,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-06-05 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-06-05 23:13:00 +0000"
     },
     "done": true
   },
@@ -14380,6 +14687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-05 23:14:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-05 23:07:21 +0000"
@@ -14428,9 +14741,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_pressure_plates": {
     "criteria": {
       "has_tag_minecraft_wooden_pressure_plates": "2025-06-05 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -14476,6 +14801,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-05 23:14:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_carpet_from_orange_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -14512,9 +14843,21 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-06-05 22:02:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-05 23:14:17 +0000"
     },
     "done": true
   },
@@ -14608,6 +14951,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_wool_from_blue_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -14620,9 +14969,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -14716,6 +15077,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-06-05 19:12:03 +0000"
@@ -14755,6 +15134,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-06-05 19:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -14845,6 +15230,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
     },
     "done": true
   },
@@ -14986,6 +15377,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/elder_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
@@ -15040,9 +15437,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2025-06-05 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -15112,6 +15521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_blue_stained_glass_pane_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
@@ -15151,6 +15566,12 @@
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -15232,6 +15653,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-05 23:14:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 22:16:50 +0000"
@@ -15274,6 +15701,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-05 23:18:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_wool_from_green_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -15307,6 +15740,12 @@
   "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -15586,6 +16025,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-06-05 18:48:22 +0000"
@@ -15670,6 +16115,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
     "criteria": {
       "has_data_storage_chip": "2025-06-05 23:09:35 +0000"
@@ -15712,6 +16163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
@@ -15742,6 +16199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
@@ -15763,6 +16226,18 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-06-05 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
@@ -15859,6 +16334,12 @@
   "endrem:main/root": {
     "criteria": {
       "rogue_eye": "2025-06-05 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 23:16:47 +0000"
     },
     "done": true
   },
