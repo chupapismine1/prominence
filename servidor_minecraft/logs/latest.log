@@ -5051,3 +5051,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:07:19] [Server thread/INFO]: Xander_Aqp has made the advancement [The Secrets of Enchanting]
 [20:08:28] [Server thread/INFO]: Villager class_1646['Val'/13, l='ServerLevel[world]', x=94.81, y=63.00, z=44.51] died, message: 'Val hit the ground too hard'
 [20:08:28] [Server thread/INFO]: Named entity class_1646['Val'/13, l='ServerLevel[world]', x=94.81, y=63.00, z=44.51] died: Val hit the ground too hard
+[20:12:35] [Server thread/INFO]: <Xander_Aqp> reaping

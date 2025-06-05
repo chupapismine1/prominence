@@ -2208,6 +2208,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 20:08:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2025-06-05 20:04:38 +0000"
@@ -3132,6 +3138,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-06-05 20:15:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_brown": {
     "criteria": {
       "has_dyes/black": "2025-06-05 18:43:13 +0000"
@@ -3231,6 +3243,12 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/light_gray_coffin": {
+    "criteria": {
+      "has_item": "2025-06-05 20:14:55 +0000"
     },
     "done": true
   },
@@ -4501,6 +4519,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-05 20:07:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
@@ -5587,6 +5611,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-06-05 20:08:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
@@ -6134,6 +6164,12 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "eucalyptus_log": "2025-06-05 20:08:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
@@ -6203,6 +6239,12 @@
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_emerald": "2025-06-05 18:43:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-06-05 20:08:30 +0000"
     },
     "done": true
   },
@@ -9331,6 +9373,12 @@
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-05 20:07:09 +0000"
     },
     "done": true
   },
