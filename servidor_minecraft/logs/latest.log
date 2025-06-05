@@ -5591,3 +5591,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:27:01] [Server thread/INFO]: Named entity class_1646['Keneth'/27, l='ServerLevel[world]', x=89.68, y=64.50, z=44.68] died: Keneth hit the ground too hard
 [21:27:30] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to sigan_viendo01]
 [21:32:48] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Monster Hunter]
+[21:42:54] [Server thread/INFO]: Villager class_1646['Mariam'/65414, l='ServerLevel[world]', x=-665.50, y=88.00, z=-537.50] died, message: 'Mariam hit the ground too hard'
+[21:42:54] [Server thread/INFO]: Named entity class_1646['Mariam'/65414, l='ServerLevel[world]', x=-665.50, y=88.00, z=-537.50] died: Mariam fell from a high place
+[21:43:37] [Server thread/INFO]: Villager class_1646['Loyd'/66150, l='ServerLevel[world]', x=-665.50, y=88.00, z=-537.50] died, message: 'Loyd hit the ground too hard'
+[21:43:37] [Server thread/INFO]: Named entity class_1646['Loyd'/66150, l='ServerLevel[world]', x=-665.50, y=88.00, z=-537.50] died: Loyd fell from a high place
+[21:45:14] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Gravedigger]
+[21:46:05] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [This Must be a Sign!]
+[21:47:22] [Server thread/INFO]: Villager class_1646['Kirby'/69321, l='ServerLevel[world]', x=-707.58, y=118.00, z=-487.73] died, message: 'Kirby hit the ground too hard'
+[21:47:22] [Server thread/INFO]: Named entity class_1646['Kirby'/69321, l='ServerLevel[world]', x=-707.58, y=118.00, z=-487.73] died: Kirby fell from a high place
+[21:52:11] [Server thread/INFO]: AlonsoVanDeKap was killed by magic
+[21:52:11] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.chicken_05.06.2025-21.52.11.dat
