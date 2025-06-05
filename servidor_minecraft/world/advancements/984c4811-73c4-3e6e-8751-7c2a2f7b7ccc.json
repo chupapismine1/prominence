@@ -5903,6 +5903,7 @@
       "potato": "2025-06-05 18:10:04 +0000",
       "bread": "2025-06-04 23:37:47 +0000",
       "golden_apple": "2025-06-05 02:00:47 +0000",
+      "suspicious_stew": "2025-06-05 19:18:14 +0000",
       "glow_berries": "2025-06-04 23:37:45 +0000",
       "melon_slice": "2025-06-05 00:15:33 +0000",
       "cooked_chicken": "2025-06-05 00:53:28 +0000"
@@ -11614,6 +11615,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/jungle_slab_from_stairs": {
+    "criteria": {
+      "has_jungle_stairs": "2025-06-05 19:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
@@ -11740,9 +11747,21 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-06-05 19:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
     },
     "done": true
   },
@@ -11773,6 +11792,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-06-05 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
     },
     "done": true
   },
@@ -11932,6 +11957,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
@@ -12049,6 +12080,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-06-05 18:18:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-06-05 19:17:27 +0000"
     },
     "done": true
   },
@@ -12262,6 +12299,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/white_candle_from_candle_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
@@ -12289,6 +12332,12 @@
   "promenade:recipes/crafting/maple/chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-06-05 19:18:14 +0000"
     },
     "done": true
   },
@@ -12388,6 +12437,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-06-05 19:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-06-05 19:12:53 +0000"
@@ -12397,6 +12452,12 @@
   "ae2:recipes/misc/network/cables/glass_brown": {
     "criteria": {
       "has_dyes/black": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-06-05 19:19:12 +0000"
     },
     "done": true
   },
@@ -12427,6 +12488,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_from_blue_stained_glass_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-06-05 19:18:14 +0000"
     },
     "done": true
   },
@@ -12472,6 +12539,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_table": {
     "criteria": {
       "has_bamboo_table": "2025-06-05 18:57:25 +0000"
@@ -12499,6 +12572,12 @@
   "techreborn:recipes/chemical_reactor/pink_stained_glass_pane_from_red_stained_glass_pane_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-05 19:18:14 +0000"
     },
     "done": true
   },
