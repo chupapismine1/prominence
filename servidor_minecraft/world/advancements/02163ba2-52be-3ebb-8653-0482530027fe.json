@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-06-05 19:55:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -2022,6 +2028,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
+    "criteria": {
+      "has_raw_iridium": "2025-06-05 19:52:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -2319,6 +2331,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-05 19:55:13 +0000"
     },
     "done": true
   },
@@ -3252,6 +3270,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iridium": "2025-06-05 19:52:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive": {
     "criteria": {
       "has_the_recipe": "2025-06-05 19:04:40 +0000"
@@ -3507,6 +3531,12 @@
   "mcdw:recipes/sickles/sickle_last_laugh_silver": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-06-05 19:55:06 +0000"
     },
     "done": true
   },
@@ -4674,6 +4704,12 @@
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-06-05 19:51:55 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -5996,6 +6032,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-06-05 19:55:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/simons_bowblade": {
     "criteria": {
       "has_item": "2025-06-05 18:41:48 +0000"
@@ -6662,6 +6704,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-06-05 19:55:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-05 19:02:33 +0000"
@@ -6773,6 +6821,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-05 19:47:12 +0000"
     },
     "done": true
   },
@@ -7187,6 +7241,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-05 19:29:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-06-05 19:50:42 +0000"
     },
     "done": true
   },
@@ -8734,6 +8794,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 19:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-05 18:41:11 +0000"
@@ -9019,6 +9085,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-05 19:40:37 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/jade_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-05 19:49:14 +0000"
     },
     "done": true
   },
