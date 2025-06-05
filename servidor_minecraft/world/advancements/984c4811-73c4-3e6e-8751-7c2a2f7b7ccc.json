@@ -11767,6 +11767,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/jungle_slab_from_stairs": {
     "criteria": {
       "has_jungle_stairs": "2025-06-05 19:17:27 +0000"
@@ -12025,6 +12031,12 @@
     },
     "done": true
   },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2025-06-05 19:33:15 +0000"
@@ -12106,6 +12118,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
     },
     "done": true
   },
@@ -12424,6 +12442,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
     },
     "done": true
   },
@@ -12799,6 +12823,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_red": {
     "criteria": {
       "has_dyes/black": "2025-06-05 19:52:38 +0000"
@@ -12856,6 +12886,12 @@
   "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
     },
     "done": true
   },
@@ -13213,6 +13249,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_terracotta_from_pink_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -13531,6 +13579,12 @@
     },
     "done": true
   },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-06-05 19:33:15 +0000"
@@ -13768,6 +13822,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_magenta_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blue_coffin": {
+    "criteria": {
+      "has_item": "2025-06-05 21:06:18 +0000"
     },
     "done": true
   },
@@ -14086,6 +14146,18 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-06-05 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/blue_bed_from_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-06-05 21:05:46 +0000"
     },
     "done": true
   },
