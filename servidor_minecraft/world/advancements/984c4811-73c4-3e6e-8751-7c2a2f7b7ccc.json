@@ -13081,6 +13081,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-05 20:27:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-05 19:04:04 +0000"
