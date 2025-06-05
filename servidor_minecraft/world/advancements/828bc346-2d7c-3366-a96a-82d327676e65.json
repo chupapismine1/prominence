@@ -1556,6 +1556,7 @@
     "criteria": {
       "baked_potato": "2025-06-05 02:42:28 +0000",
       "apple": "2025-06-05 04:03:52 +0000",
+      "pumpkin_pie": "2025-06-05 19:32:05 +0000",
       "bread": "2025-06-05 02:20:16 +0000"
     },
     "done": false
@@ -8973,6 +8974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-06-05 18:56:56 +0000"
@@ -8991,6 +8998,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
@@ -9006,6 +9019,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-05 18:12:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_oak_slab": "2025-06-05 19:33:33 +0000"
     },
     "done": true
   },
@@ -9093,9 +9112,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-05 18:17:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-05 19:29:28 +0000"
     },
     "done": true
   },
@@ -9114,6 +9151,12 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/bamboo_pressure_plate_from_slab": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-05 19:29:28 +0000"
     },
     "done": true
   },
@@ -9144,6 +9187,12 @@
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-06-05 18:12:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 19:34:01 +0000"
     },
     "done": true
   },
@@ -9231,9 +9280,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column": {
     "criteria": {
       "has_item": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-05 19:29:28 +0000"
     },
     "done": true
   },
@@ -9246,6 +9307,12 @@
   "regions_unexplored:recipes/redstone/baobab_trapdoor": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/bamboo_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 19:29:28 +0000"
     },
     "done": true
   },
@@ -9297,6 +9364,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/eucalyptus_hanging_sign": {
+    "criteria": {
+      "has_stripped_eucalyptus_log": "2025-06-05 19:34:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
       "has_dark_oak_sapling": "2025-06-05 18:03:07 +0000"
@@ -9345,6 +9418,12 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
@@ -9360,6 +9439,12 @@
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 19:33:33 +0000"
     },
     "done": true
   },
@@ -9435,6 +9520,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-05 19:29:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2025-06-05 18:12:29 +0000"
@@ -9480,6 +9571,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-05 18:12:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-05 19:29:28 +0000"
     },
     "done": true
   },
