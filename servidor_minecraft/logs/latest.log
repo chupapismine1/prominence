@@ -5052,3 +5052,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:08:28] [Server thread/INFO]: Villager class_1646['Val'/13, l='ServerLevel[world]', x=94.81, y=63.00, z=44.51] died, message: 'Val hit the ground too hard'
 [20:08:28] [Server thread/INFO]: Named entity class_1646['Val'/13, l='ServerLevel[world]', x=94.81, y=63.00, z=44.51] died: Val hit the ground too hard
 [20:12:35] [Server thread/INFO]: <Xander_Aqp> reaping
+[20:22:27] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.3260246697374214
+[20:22:27] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.9521484544205805
+[20:22:27] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.7252767260343376
+[20:22:27] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 1.3226372706015803
+[20:25:39] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.30551149076444517
+[20:25:39] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.931708749940924
+[20:25:39] [Server thread/WARN]: Żar-ptak (vehicle of sigan_viendo01) moved wrongly! 0.6786473630147043
+[20:27:18] [Server thread/INFO]: A1lenSS has made the advancement [The Parrots and the Bats]
+[20:30:05] [Server thread/INFO]: sigan_viendo01 lost connection: Disconnected
+[20:30:05] [Server thread/INFO]: sigan_viendo01 left the game
+[20:30:05] [Server thread/INFO]: remove player wand
+[20:30:05] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
