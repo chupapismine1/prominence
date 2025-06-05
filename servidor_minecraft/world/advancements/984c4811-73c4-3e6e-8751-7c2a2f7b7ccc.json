@@ -5881,6 +5881,7 @@
       "minecraft:spider": "2025-06-05 01:46:15 +0000",
       "minecraft:piglin_brute": "2025-06-05 23:12:20 +0000",
       "minecraft:creeper": "2025-06-05 02:23:10 +0000",
+      "minecraft:slime": "2025-06-05 23:45:08 +0000",
       "minecraft:witch": "2025-06-05 01:39:07 +0000",
       "minecraft:wither_skeleton": "2025-06-05 23:10:12 +0000",
       "minecraft:husk": "2025-06-04 23:36:32 +0000",
@@ -8521,6 +8522,7 @@
       "minecraft:beach": "2025-06-05 01:02:37 +0000",
       "minecraft:river": "2025-06-05 00:21:31 +0000",
       "minecraft:stony_shore": "2025-06-05 01:04:31 +0000",
+      "minecraft:dripstone_caves": "2025-06-05 23:42:39 +0000",
       "minecraft:desert": "2025-06-05 00:47:33 +0000",
       "minecraft:warm_ocean": "2025-06-05 00:57:28 +0000"
     },
@@ -11854,6 +11856,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dark_moon_greatsword": {
     "criteria": {
       "has_item": "2025-06-05 22:35:28 +0000"
@@ -12004,6 +12012,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-05 23:16:47 +0000"
@@ -12037,6 +12051,18 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-05 22:02:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -12079,6 +12105,12 @@
   "twigs:recipes/calcite/calcite_slab": {
     "criteria": {
       "has_item": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 23:45:09 +0000"
     },
     "done": true
   },
@@ -12334,6 +12366,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-06-05 21:25:46 +0000"
@@ -12454,6 +12492,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-06-05 23:49:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_red": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -12499,6 +12543,12 @@
   "brewery:recipes/patterned_wool": {
     "criteria": {
       "has_blue_wool": "2025-06-05 21:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 23:45:09 +0000"
     },
     "done": true
   },
@@ -12583,6 +12633,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 23:45:09 +0000"
     },
     "done": true
   },
@@ -12685,6 +12741,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 22:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-05 23:43:01 +0000"
     },
     "done": true
   },
@@ -13421,6 +13483,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 23:45:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_magenta_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -13655,6 +13723,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-05 19:33:15 +0000"
@@ -13706,6 +13780,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -14609,9 +14689,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-06-05 22:16:50 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -14663,6 +14755,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
@@ -14708,6 +14806,12 @@
   "handcrafted:recipes/misc/bamboo_chair": {
     "criteria": {
       "has_bamboo_chair": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-06-05 23:49:32 +0000"
     },
     "done": true
   },
@@ -15587,6 +15691,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_nugget_from_hoe": {
     "criteria": {
       "has_golden_hoe": "2025-06-05 23:03:53 +0000"
@@ -15779,6 +15889,12 @@
     },
     "done": true
   },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-05 23:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-05 23:16:47 +0000"
@@ -15860,6 +15976,12 @@
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-06-05 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-06-05 23:44:55 +0000"
     },
     "done": true
   },
@@ -16043,6 +16165,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-05 19:38:00 +0000"
@@ -16088,6 +16216,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_orange_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-05 23:43:52 +0000"
     },
     "done": true
   },
@@ -16172,6 +16306,12 @@
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -16271,6 +16411,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-05 23:45:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-06-05 21:05:46 +0000"
@@ -16364,6 +16510,12 @@
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-05 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -16517,6 +16669,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-05 23:16:47 +0000"
@@ -16538,6 +16696,12 @@
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-05 23:45:09 +0000"
     },
     "done": true
   },
