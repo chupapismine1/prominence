@@ -5064,3 +5064,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:30:05] [Server thread/INFO]: sigan_viendo01 left the game
 [20:30:05] [Server thread/INFO]: remove player wand
 [20:30:05] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[20:50:34] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[20:50:34] [Server thread/INFO]: Xander_Aqp left the game
+[20:50:34] [Server thread/INFO]: remove player wand
+[20:50:34] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
