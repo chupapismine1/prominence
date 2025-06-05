@@ -11668,6 +11668,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-05 23:16:47 +0000"
@@ -11677,6 +11683,12 @@
   "techreborn:recipes/chemical_reactor/red_wool_from_pink_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -12544,6 +12556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 22:16:50 +0000"
@@ -12595,6 +12613,12 @@
   "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -12749,6 +12773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-05 19:04:04 +0000"
@@ -12764,6 +12794,12 @@
   "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 19:38:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -13211,6 +13247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cup": {
     "criteria": {
       "has_white_cup": "2025-06-05 19:00:14 +0000"
@@ -13352,6 +13394,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-06-05 23:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -13526,6 +13574,12 @@
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-05 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-05 23:24:55 +0000"
     },
     "done": true
   },
@@ -13889,6 +13943,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-05 23:24:55 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-06-05 23:09:38 +0000"
@@ -13979,6 +14045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-06-05 19:33:15 +0000"
@@ -14036,6 +14108,12 @@
   "techreborn:recipes/chemical_reactor/gray_stained_glass_from_black_stained_glass_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-06-05 23:24:55 +0000"
     },
     "done": true
   },
@@ -14141,6 +14219,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-05 23:24:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2025-06-05 19:04:04 +0000"
@@ -14150,6 +14234,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-05 22:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -14234,6 +14324,12 @@
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2025-06-05 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -15017,6 +15113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
@@ -15083,6 +15185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
     "criteria": {
       "has_steel_ingot": "2025-06-05 23:18:08 +0000"
@@ -15116,6 +15224,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-05 21:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-06-05 23:25:48 +0000"
     },
     "done": true
   },
@@ -15230,6 +15344,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-05 23:24:55 +0000"
     },
     "done": true
   },
@@ -15845,6 +15965,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-06-05 23:24:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 19:40:47 +0000"
@@ -16082,6 +16208,12 @@
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2025-06-05 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-06-05 23:24:55 +0000"
     },
     "done": true
   },

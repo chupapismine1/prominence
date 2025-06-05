@@ -6703,3 +6703,25 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:22:34] [Server thread/INFO]: AlonsoVanDeKap left the game
 [23:22:34] [Server thread/INFO]: remove player wand
 [23:22:34] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[23:24:55] [Server thread/INFO]: A1lenSS has made the advancement [Into Fire]
+[23:29:20] [Server thread/INFO]: A1lenSS was slain by Piglin Brute
+[23:29:20] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_05.06.2025-23.29.20.dat
+[23:29:22] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[23:29:39] [Server thread/INFO]: <A1lenSS> 33 niveles
+[23:29:41] [Server thread/INFO]: <A1lenSS> ptmr
+[23:29:45] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -352.500000, 69.500000, 116.500000]
+[23:30:07] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[23:30:18] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to 41.500000, 42.500000, -320.500000]
+[23:30:22] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to 49.500000, 41.500000, -345.500000]
+[23:30:24] [Server thread/INFO]: A1lenSS was slain by Piglin Brute
+[23:30:24] [Server thread/INFO]: Did not backup data (grave data empty)
+[23:30:26] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[23:30:40] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -352.500000, 69.500000, 116.500000]
+[23:30:49] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[23:31:00] [Server thread/INFO]: [A1lenSS: Set own game mode to Spectator Mode]
+[23:31:06] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to 51.500000, 62.500000, -345.500000]
+[23:31:22] [Server thread/INFO]: [A1lenSS: Set own game mode to Survival Mode]
+[23:31:40] [Server thread/INFO]: [A1lenSS: Set spawn point to 52, 69, -345 [0.0] in minecraft:the_nether for A1lenSS]
+[23:31:42] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at 51, 62, -345, minecraft:the_nether
+[23:33:10] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to 50.500000, 74.500000, -390.500000]
+[23:34:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
