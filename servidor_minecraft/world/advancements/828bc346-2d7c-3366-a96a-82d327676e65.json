@@ -9646,6 +9646,12 @@
     },
     "done": true
   },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-05 19:45:48 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
     "criteria": {
       "has_log": "2025-06-05 18:01:35 +0000"
