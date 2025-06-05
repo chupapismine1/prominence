@@ -8745,6 +8745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-05 19:00:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
       "has_log": "2025-06-05 18:01:35 +0000"
@@ -8808,6 +8814,12 @@
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
     },
     "done": true
   },
@@ -8886,6 +8898,18 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-05 18:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-06-05 19:00:06 +0000"
     },
     "done": true
   },
@@ -9009,6 +9033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/baobab_button": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 18:49:40 +0000"
@@ -9024,6 +9054,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-06-05 18:02:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
     },
     "done": true
   },
@@ -9111,6 +9147,18 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-05 19:03:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-06-05 18:12:29 +0000"
@@ -9138,6 +9186,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
     },
     "done": true
   },
@@ -9255,6 +9309,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-06-05 18:12:29 +0000"
@@ -9336,6 +9396,12 @@
   "regions_unexplored:recipes/decorations/baobab_sign": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
     },
     "done": true
   },
@@ -9486,6 +9552,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-05 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-05 18:59:03 +0000"
     },
     "done": true
   },
