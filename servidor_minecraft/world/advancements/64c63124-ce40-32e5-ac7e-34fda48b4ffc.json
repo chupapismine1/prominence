@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-05 21:55:58 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
       "has_clock": "2025-06-05 21:08:50 +0000"
@@ -999,6 +1005,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2025-06-05 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
     },
     "done": true
   },
@@ -2191,6 +2203,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-05 21:54:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_shear_dagger": {
     "criteria": {
       "has_shears": "2025-06-05 21:31:52 +0000"
@@ -2919,6 +2937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-05 22:01:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_sign": {
     "criteria": {
       "has_stick": "2025-06-05 21:13:15 +0000"
@@ -2982,6 +3006,12 @@
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-06-05 21:11:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-05 21:54:41 +0000"
     },
     "done": true
   },
@@ -3400,6 +3430,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-05 21:12:35 +0000"
@@ -3523,6 +3559,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-06-05 21:13:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-06-05 22:00:09 +0000"
     },
     "done": true
   },
@@ -3694,6 +3736,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-06-05 21:13:15 +0000"
@@ -3814,6 +3862,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-05 21:12:35 +0000"
@@ -3829,6 +3883,12 @@
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-05 21:12:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
     },
     "done": true
   },
@@ -4349,6 +4409,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-05 21:55:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-06-05 21:11:42 +0000"
@@ -4490,6 +4556,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-06-05 21:25:54 +0000",
+      "minecraft:badlands": "2025-06-05 22:01:24 +0000",
       "minecraft:desert": "2025-06-05 21:41:38 +0000"
     },
     "done": false
@@ -4497,6 +4564,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-06-05 21:12:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-05 21:55:58 +0000"
     },
     "done": true
   },
@@ -4785,6 +4858,12 @@
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-06-05 21:08:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-06-05 22:00:09 +0000"
     },
     "done": true
   },
@@ -5167,6 +5246,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-05 21:54:41 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_white_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 21:15:13 +0000"
@@ -5383,6 +5468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2025-06-05 21:24:47 +0000"
@@ -5548,6 +5639,12 @@
   "mcdw:recipes/bows/bow_sabrewing": {
     "criteria": {
       "has_gold_ingot": "2025-06-05 21:12:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-05 22:01:46 +0000"
     },
     "done": true
   },
@@ -5845,6 +5942,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 21:54:41 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/guards_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 21:15:13 +0000"
@@ -6112,6 +6215,12 @@
   "mcda:recipes/base_armors/mystery_armor_purple_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-05 21:54:41 +0000"
     },
     "done": true
   },
@@ -6700,6 +6809,12 @@
   "seasonsextras:recipes/seasonal_compendium": {
     "criteria": {
       "has_sapling": "2025-06-05 21:10:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-05 21:55:58 +0000"
     },
     "done": true
   },
@@ -7383,6 +7498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-05 22:01:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
     "criteria": {
       "has_light_gray_wool": "2025-06-05 21:13:30 +0000"
@@ -7699,6 +7820,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 21:22:58 +0000"
@@ -7887,6 +8014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-05 22:01:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-06-05 21:13:15 +0000"
@@ -8043,6 +8176,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-05 21:55:58 +0000"
     },
     "done": true
   },
@@ -8668,6 +8807,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 22:00:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 21:12:25 +0000"
@@ -8741,6 +8886,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-05 21:54:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blackstone": {
     "criteria": {
       "has_cobblestone": "2025-06-05 21:16:25 +0000"
@@ -8768,6 +8919,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 21:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-05 22:00:09 +0000"
     },
     "done": true
   },
@@ -9266,6 +9423,12 @@
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-06-05 21:08:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-05 21:55:58 +0000"
     },
     "done": true
   },

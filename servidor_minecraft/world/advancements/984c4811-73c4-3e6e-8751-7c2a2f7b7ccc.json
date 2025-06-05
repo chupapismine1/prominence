@@ -11635,6 +11635,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-06-05 18:54:20 +0000"
@@ -11764,6 +11770,12 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-05 22:01:35 +0000"
     },
     "done": true
   },
@@ -11899,6 +11911,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-05 21:55:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_bench": {
     "criteria": {
       "has_bamboo_bench": "2025-06-05 18:57:25 +0000"
@@ -12022,6 +12040,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_magenta_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
+    "criteria": {
+      "has_dead_steppe_shrub": "2025-06-05 21:59:34 +0000"
     },
     "done": true
   },
@@ -12589,6 +12613,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
@@ -12700,6 +12730,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-05 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-05 21:55:53 +0000"
     },
     "done": true
   },
@@ -12817,6 +12853,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-06-05 21:55:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/cookie": {
     "criteria": {
       "has_cookie": "2025-06-05 19:12:54 +0000"
@@ -12826,6 +12868,12 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-05 22:01:35 +0000"
     },
     "done": true
   },
@@ -13159,6 +13207,12 @@
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-06-05 21:25:46 +0000"
@@ -13444,6 +13498,12 @@
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-06-05 22:01:35 +0000"
     },
     "done": true
   },
@@ -13777,6 +13837,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
@@ -14053,6 +14119,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_white": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
@@ -14104,6 +14176,12 @@
   "handcrafted:recipes/misc/bamboo_table": {
     "criteria": {
       "has_bamboo_table": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-05 22:01:35 +0000"
     },
     "done": true
   },
@@ -14533,6 +14611,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-05 22:01:35 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-06-05 19:44:22 +0000"
@@ -14638,6 +14722,12 @@
   "rpg_series:path_choose_rogue": {
     "criteria": {
       "book": "2025-06-05 19:45:28 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-06-05 22:01:35 +0000"
     },
     "done": true
   },
