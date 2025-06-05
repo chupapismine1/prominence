@@ -5585,3 +5585,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:16:25] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Stone Age]
 [21:18:47] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Sweet Dreams]
 [21:20:07] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [The Cutest Predator]
+[21:24:14] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Suit Up]
+[21:26:45] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Diamonds!]
+[21:27:01] [Server thread/INFO]: Villager class_1646['Keneth'/27, l='ServerLevel[world]', x=89.68, y=64.50, z=44.68] died, message: 'Keneth hit the ground too hard'
+[21:27:01] [Server thread/INFO]: Named entity class_1646['Keneth'/27, l='ServerLevel[world]', x=89.68, y=64.50, z=44.68] died: Keneth hit the ground too hard
+[21:27:30] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to sigan_viendo01]
+[21:32:48] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Monster Hunter]
