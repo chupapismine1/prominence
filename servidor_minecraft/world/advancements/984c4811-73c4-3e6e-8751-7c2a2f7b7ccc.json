@@ -11596,9 +11596,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-05 19:12:03 +0000"
     },
     "done": true
   },
@@ -11617,6 +11629,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-06-05 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-06-05 19:12:53 +0000"
     },
     "done": true
   },
@@ -11686,6 +11704,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-06-05 18:48:22 +0000"
@@ -11752,6 +11776,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-05 19:04:04 +0000"
@@ -11764,9 +11794,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_drawer": {
     "criteria": {
       "has_bamboo_drawer": "2025-06-05 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-06-05 19:12:03 +0000"
     },
     "done": true
   },
@@ -11779,6 +11821,24 @@
   "techreborn:recipes/chemical_reactor/pink_stained_glass_from_magenta_stained_glass_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-05 19:12:03 +0000"
     },
     "done": true
   },
@@ -11860,6 +11920,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2025-06-05 18:18:25 +0000"
@@ -11869,6 +11935,12 @@
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-05 19:12:53 +0000"
     },
     "done": true
   },
@@ -11911,6 +11983,12 @@
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-05 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-06-05 19:12:54 +0000"
     },
     "done": true
   },
@@ -12076,6 +12154,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-05 19:04:04 +0000"
@@ -12091,6 +12175,12 @@
   "techreborn:recipes/chemical_reactor/pink_stained_glass_from_red_stained_glass_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 19:12:53 +0000"
     },
     "done": true
   },
@@ -12244,6 +12334,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_bed": {
     "criteria": {
       "has_bed": "2025-06-05 18:03:48 +0000"
@@ -12268,15 +12364,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-05 19:12:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-05 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_dyes/black": "2025-06-05 19:12:53 +0000"
     },
     "done": true
   },
@@ -12565,6 +12685,12 @@
   "techreborn:recipes/chemical_reactor/light_gray_stained_glass_pane_from_gray_stained_glass_pane_with_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-05 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-06-05 19:12:03 +0000"
     },
     "done": true
   },

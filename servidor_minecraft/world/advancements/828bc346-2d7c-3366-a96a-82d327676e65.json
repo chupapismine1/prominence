@@ -9303,6 +9303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 19:09:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-06-05 18:12:29 +0000"

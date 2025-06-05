@@ -687,9 +687,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -711,15 +723,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bamboo_pillar_trim": {
     "criteria": {
       "has_bamboo_pillar_trim": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-06-05 19:10:10 +0000"
     },
     "done": true
   },
@@ -819,9 +849,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-06-05 19:10:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -870,6 +924,12 @@
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -963,6 +1023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-05 18:55:52 +0000"
@@ -1035,6 +1107,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-06-05 18:41:10 +0000"
@@ -1080,6 +1158,12 @@
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
     },
     "done": true
   },
@@ -1167,6 +1251,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:56 +0000"
@@ -1191,9 +1287,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -1317,6 +1425,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-05 18:46:39 +0000"
@@ -1365,6 +1479,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-05 18:55:52 +0000"
@@ -1374,6 +1494,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -1395,9 +1521,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_leggings": {
     "criteria": {
       "has_bone": "2025-06-05 18:55:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -1407,9 +1545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -1527,9 +1677,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
     },
     "done": true
   },
@@ -1542,6 +1710,12 @@
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
     },
     "done": true
   },
@@ -1617,6 +1791,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-05 19:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-05 18:46:39 +0000"
@@ -1650,6 +1830,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_sign": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -1698,6 +1884,12 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -1845,15 +2037,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-06-05 18:43:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -1929,9 +2151,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2025-06-05 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -1944,6 +2184,12 @@
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
     },
     "done": true
   },
@@ -1962,6 +2208,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -1995,9 +2247,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2010,6 +2274,12 @@
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2028,6 +2298,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -2079,6 +2361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
@@ -2115,9 +2403,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -2259,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/eucalyptus_door": {
     "criteria": {
       "has_eucalyptus_planks": "2025-06-05 18:44:53 +0000"
@@ -2301,6 +2607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
@@ -2337,6 +2649,18 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_blue_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -2346,6 +2670,18 @@
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2385,6 +2721,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_green_menace": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -2394,6 +2736,12 @@
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
     },
     "done": true
   },
@@ -2415,6 +2763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-06-05 18:41:48 +0000"
@@ -2427,6 +2781,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 18:46:39 +0000"
@@ -2436,6 +2796,12 @@
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -2481,9 +2847,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2508,6 +2886,12 @@
   "mcda:recipes/unique_armors/highland_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-06-05 19:04:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2544,6 +2928,12 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -2610,6 +3000,12 @@
   "ae2:recipes/misc/network/cables/smart_blue": {
     "criteria": {
       "has_dyes/black": "2025-06-05 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2757,6 +3153,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-06-05 18:43:59 +0000"
@@ -2823,9 +3225,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -2850,6 +3264,12 @@
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -2913,6 +3333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_lead": {
     "criteria": {
       "has_raw_lead_ores": "2025-06-05 18:55:11 +0000"
@@ -2943,6 +3369,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-05 18:55:52 +0000"
@@ -2952,6 +3384,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -3009,6 +3447,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_harp": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
@@ -3021,9 +3465,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/stalagnate_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -3036,6 +3498,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -3105,6 +3573,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -3117,9 +3591,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -3141,6 +3627,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-06-05 19:04:19 +0000"
@@ -3150,6 +3642,12 @@
   "mcda:recipes/base_armors/emerald_gear_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -3201,6 +3699,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/dragons_blood_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
@@ -3210,6 +3714,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -3234,6 +3744,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -3291,6 +3807,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -3300,6 +3822,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -3315,6 +3843,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -3324,6 +3858,12 @@
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-05 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -3339,9 +3879,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-05 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -3372,6 +3924,24 @@
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-06-05 18:41:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -3417,6 +3987,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:25 +0000"
@@ -3441,6 +4017,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
@@ -3456,6 +4044,12 @@
   "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
     },
     "done": true
   },
@@ -3490,6 +4084,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/respiration_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
@@ -3502,6 +4102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_guardian_bow": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -3511,6 +4117,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -3538,9 +4150,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-05 19:16:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_sign": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-05 19:16:15 +0000"
     },
     "done": true
   },
@@ -3574,6 +4204,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -3595,6 +4231,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -3706,6 +4354,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lantern": {
     "criteria": {
       "has_torch": "2025-06-05 18:47:25 +0000"
@@ -3715,6 +4369,12 @@
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -3784,6 +4444,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
@@ -3799,6 +4465,24 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-05 19:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
     },
     "done": true
   },
@@ -3820,9 +4504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-06-05 18:40:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -3904,9 +4600,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -3934,6 +4642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-06-05 18:47:25 +0000"
@@ -3955,6 +4669,12 @@
   "handcrafted:recipes/misc/bamboo_cupboard": {
     "criteria": {
       "has_bamboo_cupboard": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -4090,6 +4810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -4126,15 +4852,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-05 18:43:59 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -4153,6 +4897,18 @@
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -4192,15 +4948,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
     },
     "done": true
   },
@@ -4216,9 +4990,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -4249,6 +5041,12 @@
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -4312,9 +5110,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -4378,6 +5194,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-06-05 18:40:56 +0000"
@@ -4417,6 +5239,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-05 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -4516,10 +5344,22 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000",
       "has_the_recipe": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -4571,6 +5411,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-05 19:02:33 +0000"
@@ -4586,6 +5438,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-06-05 18:41:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-05 19:10:14 +0000"
     },
     "done": true
   },
@@ -4679,9 +5537,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-05 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -4733,9 +5609,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_burst_gale_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -4778,6 +5666,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-05 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -4847,9 +5741,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "beachparty:mini_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -4889,6 +5795,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -4922,6 +5846,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -4997,6 +5927,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-05 18:50:41 +0000"
@@ -5066,6 +6002,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -5183,6 +6125,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
@@ -5219,6 +6167,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -5252,6 +6206,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -5339,6 +6299,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-06-05 18:41:48 +0000"
@@ -5351,6 +6335,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
@@ -5360,6 +6350,24 @@
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -5411,6 +6419,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-06-05 18:43:59 +0000"
@@ -5432,6 +6446,18 @@
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -5495,6 +6521,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
       "has_book": "2025-06-05 18:43:14 +0000"
@@ -5516,6 +6548,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-06-05 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -5597,6 +6635,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -5669,6 +6713,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
@@ -5729,6 +6779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-06-05 18:59:42 +0000"
@@ -5771,6 +6827,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-05 19:10:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_ladder": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -5810,6 +6872,12 @@
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -5858,6 +6926,12 @@
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -5960,6 +7034,12 @@
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -6071,6 +7151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -6086,6 +7172,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-05 18:46:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -6113,6 +7205,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-05 19:16:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_burster": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-06-05 18:40:25 +0000"
@@ -6125,6 +7235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-05 18:53:51 +0000"
@@ -6134,6 +7250,18 @@
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-06-05 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -6194,6 +7322,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_blue": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -6264,6 +7398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-05 18:55:52 +0000"
@@ -6273,6 +7413,12 @@
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
     },
     "done": true
   },
@@ -6384,6 +7530,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -6402,6 +7560,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_ladder": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -6411,6 +7575,18 @@
   "betternether:recipes/decorations/nether_sakura_ladder": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -6441,6 +7617,18 @@
   "mcda:recipes/base_armors/dark_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -6492,6 +7680,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sharpness_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
@@ -6537,6 +7737,12 @@
   "betterend:recipes/decorations/helix_tree_taburet": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-06-05 19:15:57 +0000"
     },
     "done": true
   },
@@ -6678,6 +7884,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
@@ -6693,6 +7905,12 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2025-06-05 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -6726,9 +7944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
@@ -6750,6 +7980,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -6765,6 +8001,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-06-05 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -6876,9 +8118,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-05 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-05 19:16:23 +0000"
     },
     "done": true
   },
@@ -6918,6 +8172,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
@@ -6939,6 +8199,18 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_love_spell_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -6996,6 +8268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-06-05 18:43:21 +0000"
@@ -7008,9 +8286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-05 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
     },
     "done": true
   },
@@ -7020,9 +8310,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -7071,6 +8373,12 @@
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-06-05 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2025-06-05 19:10:14 +0000"
     },
     "done": true
   },
@@ -7140,6 +8448,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-05 19:08:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-05 18:43:14 +0000"
@@ -7176,9 +8496,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-06-05 19:10:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-05 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -7215,6 +8547,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-05 18:55:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -7266,6 +8604,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_string": "2025-06-05 19:08:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 18:41:48 +0000"
@@ -7275,6 +8619,18 @@
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-06-05 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 19:10:47 +0000"
     },
     "done": true
   },
@@ -7338,6 +8694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-06-05 19:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-06-05 19:02:33 +0000"
@@ -7365,6 +8727,12 @@
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-05 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-05 19:11:50 +0000"
     },
     "done": true
   },
