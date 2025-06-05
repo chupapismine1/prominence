@@ -8716,6 +8716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-05 19:58:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/baobab_pressure_plate": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 18:49:40 +0000"
@@ -8959,6 +8965,12 @@
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-06-05 18:12:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-05 20:03:59 +0000"
     },
     "done": true
   },
@@ -9520,6 +9532,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-06-05 19:58:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-06-05 19:29:28 +0000"
@@ -9553,6 +9571,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-05 18:12:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-05 19:58:15 +0000"
     },
     "done": true
   },
