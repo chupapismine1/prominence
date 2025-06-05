@@ -13633,6 +13633,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/dark_oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-05 21:15:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
@@ -13948,6 +13954,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_pink_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-06-05 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 21:15:11 +0000"
     },
     "done": true
   },
