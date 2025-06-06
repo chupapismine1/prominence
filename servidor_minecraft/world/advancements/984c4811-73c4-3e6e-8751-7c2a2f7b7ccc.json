@@ -17619,6 +17619,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-06 19:31:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/sugar": {
     "criteria": {
       "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
