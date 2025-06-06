@@ -15441,6 +15441,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "galeforce": "2025-06-06 01:34:10 +0000",
       "darkin_blade": "2025-06-05 22:35:28 +0000"
     },
     "done": false

@@ -9074,6 +9074,7 @@
   },
   "vinery:main/vineyard_visionary": {
     "criteria": {
+      "vinery:jungle_grapes_red": "2025-06-06 01:27:23 +0000",
       "vinery:jungle_grapes_white": "2025-06-05 21:40:15 +0000"
     },
     "done": false
@@ -9104,9 +9105,10 @@
   },
   "vinery:main/budding_grapes": {
     "criteria": {
+      "vinery:jungle_grapes_red": "2025-06-06 01:27:23 +0000",
       "vinery:jungle_grapes_white": "2025-06-05 21:40:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:recipes/campfire_raisins": {
     "criteria": {
@@ -11877,6 +11879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2025-06-06 00:57:47 +0000"
@@ -11946,6 +11954,12 @@
   "oxidized:recipes/copper_nugget": {
     "criteria": {
       "has_copper_block": "2025-06-06 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
@@ -12045,6 +12059,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 00:49:32 +0000"
@@ -12066,6 +12086,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-06-06 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
@@ -12093,6 +12119,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-06 01:09:31 +0000"
@@ -12102,6 +12134,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-06 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
@@ -12198,6 +12236,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 00:51:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
@@ -12453,6 +12497,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-06-06 00:40:44 +0000"
@@ -12675,6 +12725,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-06-06 00:40:44 +0000"
@@ -12690,6 +12746,18 @@
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 01:34:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
@@ -13092,6 +13160,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-06-06 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-06-06 01:34:30 +0000"
     },
     "done": true
   },
