@@ -11138,6 +11138,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_knife": "2025-06-06 00:16:29 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
     "criteria": {
       "has_stripped_log": "2025-06-05 23:39:28 +0000"
@@ -11324,6 +11330,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-06 00:19:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-06-05 22:43:41 +0000"
@@ -11393,6 +11405,12 @@
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-06-05 22:50:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-06-06 00:19:38 +0000"
     },
     "done": true
   },
@@ -11567,6 +11585,12 @@
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-05 22:50:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-06-06 00:16:29 +0000"
     },
     "done": true
   },
@@ -12116,6 +12140,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-06-06 00:19:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 22:31:44 +0000"
@@ -12284,6 +12314,12 @@
     },
     "done": true
   },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-06-06 00:19:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-05 22:31:44 +0000"
@@ -12323,6 +12359,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 22:44:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-06 00:19:38 +0000"
     },
     "done": true
   },
