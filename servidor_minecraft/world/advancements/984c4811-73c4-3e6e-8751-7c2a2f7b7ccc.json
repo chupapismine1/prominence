@@ -16964,6 +16964,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-06-06 00:45:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dark_katana": {
     "criteria": {
       "has_netherite_ingot": "2025-06-06 00:29:33 +0000"

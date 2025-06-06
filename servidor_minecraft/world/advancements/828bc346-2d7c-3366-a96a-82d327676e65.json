@@ -11348,6 +11348,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-06-06 00:49:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-06-05 22:43:41 +0000"
@@ -12235,6 +12241,12 @@
       "has_material": "2025-06-05 22:38:27 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-06-06 00:46:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
