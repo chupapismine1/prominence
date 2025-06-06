@@ -11766,5 +11766,11 @@
     },
     "done": true
   },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-06 00:30:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

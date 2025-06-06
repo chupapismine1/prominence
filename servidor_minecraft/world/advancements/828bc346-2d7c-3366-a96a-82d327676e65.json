@@ -10580,6 +10580,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-06-06 00:24:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-06-05 22:52:41 +0000"
@@ -11039,6 +11045,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-05 22:45:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-06-06 00:24:08 +0000"
     },
     "done": true
   },
@@ -11930,6 +11942,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-06-06 00:24:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-05 22:45:23 +0000"
@@ -12347,6 +12365,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-05 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-06 00:24:08 +0000"
     },
     "done": true
   },

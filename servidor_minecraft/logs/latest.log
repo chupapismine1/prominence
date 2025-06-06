@@ -259,3 +259,90 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[00:26:54] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -692.500000, 119.500000, -481.500000]
+[00:27:34] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -352.500000, 69.500000, 116.500000]
+[00:27:50] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -692.500000, 119.500000, -481.500000]
+[00:28:20] [Server thread/WARN]: [EMI] Client requested fill but screen handler has changed, aborting
+[00:28:42] [Server thread/INFO]: [Handshake] Sending channel query
+[00:28:43] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:28:43] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:28:43] [Server thread/INFO]: AlonsoVanDeKap[/127.184.0.244:33947] logged in with entity id 161570 at (-25.855707553698732, 90.0, -421.26976572730814)
+[00:28:43] [Server thread/INFO]: Sending server config values to client
+[00:28:43] [Server thread/INFO]: Syncing config to AlonsoVanDeKap (64c63124-ce40-32e5-ac7e-34fda48b4ffc)
+[00:28:43] [Server thread/INFO]: Loading config from file...
+[00:28:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:28:43] [Server thread/INFO]: AlonsoVanDeKap joined the game
+[00:28:43] [Server thread/INFO]: Loading Configs for Sortilege
+[00:28:43] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:28:43] [Server thread/INFO]: Updating all forceload tickets for 64c63124-ce40-32e5-ac7e-34fda48b4ffc
+[00:28:43] [Server thread/INFO]: PLAYER_JOIN
+[00:28:43] [Server thread/INFO]: add_player wand
+[00:28:43] [Server thread/INFO]: config sent
+[00:28:45] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:28:49] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: AlonsoVanDeKap -> Global
+[00:28:49] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player AlonsoVanDeKap. Claiming: GRAVE / Robbing: INVENTORY
+[00:28:52] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[00:29:16] [Server thread/INFO]: AlonsoVanDeKap was fireballed by Blaze
+[00:29:16] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.chicken_06.06.2025-00.29.16.dat
+[00:29:29] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[00:30:05] [Server thread/INFO]: <AlonsoVanDeKap> xaero-waypoint:PORTAL:P:-354:68:114:12:false:0:Internal-overworld-waypoints
+[00:30:18] [Server thread/INFO]: AlonsoVanDeKap has reached the goal [Choose your path]
+[00:30:24] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to -364.500000, 68.000000, 114.500000]
+[00:30:44] [Server thread/INFO]: No return portal found
+[00:30:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[00:30:44] [Server thread/INFO]: [A1lenSS: Set AlonsoVanDeKap's game mode to Spectator Mode]
+[00:31:26] [Server thread/INFO]: [A1lenSS: Set AlonsoVanDeKap's game mode to Survival Mode]
+[00:31:27] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -26, 90, -422, minecraft:the_nether
+[00:31:46] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[00:31:46] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[00:31:54] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:33:14] [Server thread/INFO]: A1lenSS has made the advancement [Surge Protector]
+[00:33:14] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Surge Protector]
+[00:33:30] [Server thread/INFO]: Villager class_1646['Nerissa'/26, l='ServerLevel[world]', x=78.63, y=66.19, z=39.16] died, message: 'Nerissa hit the ground too hard'
+[00:33:30] [Server thread/INFO]: Named entity class_1646['Nerissa'/26, l='ServerLevel[world]', x=78.63, y=66.19, z=39.16] died: Nerissa hit the ground too hard
+[00:35:55] [Server thread/INFO]: A1lenSS has made the advancement [Enchanter]
+[00:35:55] [Server thread/INFO]: A1lenSS has made the advancement [Introduction to Chaos]
+[00:35:55] [Server thread/INFO]: A1lenSS has made the advancement [Eterna, Quanta, Arcana]
