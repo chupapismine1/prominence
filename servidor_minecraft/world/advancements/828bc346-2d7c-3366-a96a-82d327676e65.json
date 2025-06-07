@@ -54,12 +54,6 @@
     },
     "done": true
   },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2025-06-05 02:11:16 +0000"
-    },
-    "done": true
-  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-06-05 02:11:16 +0000"
@@ -1736,12 +1730,6 @@
     },
     "done": true
   },
-  "beachparty:bikini": {
-    "criteria": {
-      "has_string": "2025-06-05 02:20:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-05 02:20:37 +0000"
@@ -2511,12 +2499,6 @@
     "done": true
   },
   "supplementaries:recipes/lock_block": {
-    "criteria": {
-      "has_redstone": "2025-06-05 02:22:40 +0000"
-    },
-    "done": true
-  },
-  "beachparty:radio": {
     "criteria": {
       "has_redstone": "2025-06-05 02:22:40 +0000"
     },
@@ -4199,12 +4181,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_joshua": {
-    "criteria": {
-      "has_planks": "2025-06-05 02:30:42 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-05 02:30:42 +0000"
@@ -4523,12 +4499,6 @@
     },
     "done": true
   },
-  "beachparty:palm_tall_torch": {
-    "criteria": {
-      "has_coal": "2025-06-05 02:32:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-05 02:32:15 +0000"
@@ -4728,12 +4698,6 @@
     "done": true
   },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-05 02:33:12 +0000"
-    },
-    "done": true
-  },
-  "beachparty:palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 02:33:12 +0000"
     },
@@ -6743,12 +6707,6 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/recipe_diamond_brush": {
-    "criteria": {
-      "has_item": "2025-06-05 03:14:23 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-06-05 03:14:23 +0000"
@@ -6860,12 +6818,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-06-05 03:14:31 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/recipe_iron_brush": {
-    "criteria": {
-      "has_item": "2025-06-05 03:14:31 +0000"
     },
     "done": true
   },
@@ -7292,12 +7244,6 @@
   "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
     "criteria": {
       "has_iron_ingots": "2025-06-05 03:14:31 +0000"
-    },
-    "done": true
-  },
-  "beachparty:mini_fridge": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-05 03:14:31 +0000"
     },
     "done": true
   },
@@ -8027,12 +7973,6 @@
     },
     "done": true
   },
-  "beachparty:palm_torch": {
-    "criteria": {
-      "has_bamboo": "2025-06-05 03:35:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-05 03:35:41 +0000"
@@ -8198,12 +8138,6 @@
   "decorative_blocks:recipes/decorative_blocks.general/bamboo_seat": {
     "criteria": {
       "has_plank": "2025-06-05 03:36:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_bamboo": {
-    "criteria": {
-      "has_planks": "2025-06-05 03:36:44 +0000"
     },
     "done": true
   },
@@ -8873,12 +8807,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2025-06-05 18:12:29 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2025-06-05 18:12:29 +0000"
@@ -9092,12 +9020,6 @@
   "regions_unexplored:recipes/redstone/baobab_door": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 18:49:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_baobab": {
-    "criteria": {
-      "has_planks": "2025-06-05 18:49:40 +0000"
     },
     "done": true
   },
@@ -10451,12 +10373,6 @@
     },
     "done": true
   },
-  "beachparty:sunglasses": {
-    "criteria": {
-      "has_glass_pane": "2025-06-05 21:13:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-05 21:13:51 +0000"
@@ -10514,12 +10430,6 @@
   "regions_unexplored:recipes/decorations/eucalyptus_fence": {
     "criteria": {
       "has_eucalyptus_planks": "2025-06-05 21:39:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
-    "criteria": {
-      "has_planks": "2025-06-05 21:39:12 +0000"
     },
     "done": true
   },
@@ -14474,6 +14384,90 @@
   "betternether:recipes/building_blocks/rubeus_log": {
     "criteria": {
       "has_rubeus_bark": "2025-06-06 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/mini_fridge": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-07 03:34:45 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2025-06-07 03:34:46 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/iron_brush": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-07 03:34:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-06-07 03:34:49 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-06-07 03:34:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-06-07 22:23:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-06-07 22:23:10 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-06-07 22:18:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_item": "2025-06-07 22:20:29 +0000"
     },
     "done": true
   },

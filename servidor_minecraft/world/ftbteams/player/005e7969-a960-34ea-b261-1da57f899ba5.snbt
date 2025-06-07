@@ -1,0 +1,17 @@
+{
+	id: "005e7969-a960-34ea-b261-1da57f899ba5"
+	type: "player"
+	player_name: "TheAllend"
+	ranks: {
+		005e7969-a960-34ea-b261-1da57f899ba5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheAllend"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF74"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

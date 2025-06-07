@@ -206,7 +206,7 @@
 			#Projectile landing on blocks requires non-break block access through this option or blockAccessEntityGroups.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGrief = ["minecraft:sheep", "interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+			entitiesAllowedToGrief = ["minecraft:sheep"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".
@@ -292,4 +292,4 @@
 			#Projectile landing on entities requires non-attack entity access through this option or entityAccessEntityGroups.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGriefEntities = ["interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+			entitiesAllowedToGriefEntities = []
