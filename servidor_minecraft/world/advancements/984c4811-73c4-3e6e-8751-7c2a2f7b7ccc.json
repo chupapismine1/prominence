@@ -41,12 +41,6 @@
     },
     "done": true
   },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2025-06-04 23:19:46 +0000"
-    },
-    "done": true
-  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-06-04 23:19:46 +0000"
@@ -714,12 +708,6 @@
   "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
     "criteria": {
       "has_log": "2025-06-04 23:22:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_acacia": {
-    "criteria": {
-      "has_planks": "2025-06-04 23:22:13 +0000"
     },
     "done": true
   },
@@ -2656,12 +2644,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/paper": {
-    "criteria": {
-      "has_the_recipe": "2025-06-04 23:22:41 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-04 23:22:41 +0000"
@@ -2903,12 +2885,6 @@
     "done": true
   },
   "mcdw:recipes/crossbows/crossbow_auto": {
-    "criteria": {
-      "has_string": "2025-06-04 23:23:15 +0000"
-    },
-    "done": true
-  },
-  "beachparty:bikini": {
     "criteria": {
       "has_string": "2025-06-04 23:23:15 +0000"
     },
@@ -3532,12 +3508,6 @@
     },
     "done": true
   },
-  "beachparty:radio": {
-    "criteria": {
-      "has_redstone": "2025-06-04 23:24:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-06-04 23:24:06 +0000"
@@ -4055,12 +4025,6 @@
     "done": true
   },
   "travelersbackpack:recipes/misc/coal": {
-    "criteria": {
-      "has_coal": "2025-06-04 23:24:50 +0000"
-    },
-    "done": true
-  },
-  "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2025-06-04 23:24:50 +0000"
     },
@@ -4936,12 +4900,6 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/recipe_iron_brush": {
-    "criteria": {
-      "has_item": "2025-06-04 23:27:07 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/mystery_armor_white_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 23:27:07 +0000"
@@ -5395,12 +5353,6 @@
   "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
     "criteria": {
       "has_iron_ingots": "2025-06-04 23:27:07 +0000"
-    },
-    "done": true
-  },
-  "beachparty:mini_fridge": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-04 23:27:07 +0000"
     },
     "done": true
   },
@@ -6180,12 +6132,6 @@
     },
     "done": true
   },
-  "beachparty:beach_towel": {
-    "criteria": {
-      "has_white_wool": "2025-06-04 23:39:54 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-06-04 23:40:00 +0000"
@@ -6319,12 +6265,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-06-04 23:40:32 +0000"
-    },
-    "done": true
-  },
-  "beachparty:beach_hat": {
     "criteria": {
       "has_wheat": "2025-06-04 23:40:32 +0000"
     },
@@ -8796,12 +8736,6 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/recipe_diamond_brush": {
-    "criteria": {
-      "has_item": "2025-06-05 00:50:53 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-06-05 00:50:53 +0000"
@@ -9957,12 +9891,6 @@
   "techreborn:recipes/blast_furnace/iron_ingot": {
     "criteria": {
       "has_iron_bars": "2025-06-05 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2025-06-05 01:55:07 +0000"
     },
     "done": true
   },
@@ -11158,12 +11086,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
-    "criteria": {
-      "has_planks": "2025-06-05 03:19:02 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
     "criteria": {
       "has_eucalyptus_planks": "2025-06-05 03:19:02 +0000"
@@ -11239,12 +11161,6 @@
   "regions_unexplored:recipes/redstone/baobab_door": {
     "criteria": {
       "has_baobab_planks": "2025-06-05 03:36:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_baobab": {
-    "criteria": {
-      "has_planks": "2025-06-05 03:36:20 +0000"
     },
     "done": true
   },
@@ -11615,12 +11531,6 @@
     "done": true
   },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-05 18:04:24 +0000"
-    },
-    "done": true
-  },
-  "beachparty:palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-05 18:04:24 +0000"
     },
@@ -12145,12 +12055,6 @@
   "decorative_blocks:recipes/decorative_blocks.general/bamboo_seat": {
     "criteria": {
       "has_plank": "2025-06-05 18:57:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_bamboo": {
-    "criteria": {
-      "has_planks": "2025-06-05 18:57:25 +0000"
     },
     "done": true
   },
@@ -12907,12 +12811,6 @@
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-06-05 19:33:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2025-06-05 19:33:15 +0000"
     },
     "done": true
   },
@@ -14338,12 +14236,6 @@
     },
     "done": true
   },
-  "beachparty:palm_torch": {
-    "criteria": {
-      "has_bamboo": "2025-06-05 19:59:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-05 19:59:59 +0000"
@@ -14623,12 +14515,6 @@
   "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
     "criteria": {
       "has_plank": "2025-06-05 21:25:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
-    "criteria": {
-      "has_planks": "2025-06-05 21:25:46 +0000"
     },
     "done": true
   },
@@ -17589,15 +17475,273 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-06-06 19:11:23 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2025-06-06 19:31:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-06 19:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-06 19:42:39 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-06 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/jungle_pressure_plate_from_slab": {
+    "criteria": {
+      "has_jungle_slab": "2025-06-06 19:47:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2025-06-06 19:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_hoe": {
+  "travelersbackpack:recipes/misc/end": {
     "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
+      "has_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-06 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -17622,12 +17766,6 @@
   "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
       "has_blue_bowl": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_reed_hanging_sign": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
     },
     "done": true
   },
@@ -17703,39 +17841,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/voodoo_protection_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/voodoo_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-06-06 19:49:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_reed_planks": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_from_red_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_sword": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
     },
     "done": true
   },
@@ -17760,12 +17868,6 @@
   "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_yellow_stained_glass_pane_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_boots": {
-    "criteria": {
-      "has_ender_eye": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -17799,39 +17901,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/protection_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shovel": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/cyan_coffin": {
-    "criteria": {
-      "has_item": "2025-06-06 19:31:29 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/blue_stained_glass_from_cyan_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/sugar": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_alt_item": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -17871,21 +17943,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/curse_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -17898,18 +17958,6 @@
   "techreborn:recipes/chemical_reactor/blue_carpet_from_white_carpet_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/handbook_recipe": {
-    "criteria": {
-      "got_the_ender_eye": "2025-06-06 19:49:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_axe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
     },
     "done": true
   },
@@ -17931,39 +17979,15 @@
     },
     "done": true
   },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/blue_candle_from_light_blue_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/stick": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_concrete_powder_from_light_gray_concrete_powder_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-06 19:42:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/itemfinder": {
-    "criteria": {
-      "has_item": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -17982,12 +18006,6 @@
   "techreborn:recipes/chemical_reactor/green_stained_glass_from_yellow_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/vampiric_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
     },
     "done": true
   },
@@ -18021,33 +18039,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/mending_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/cyan_stained_glass_from_green_stained_glass_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/teleportation_robe_leggings": {
-    "criteria": {
-      "has_ender_eye": "2025-06-06 19:49:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_hoe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
     },
     "done": true
   },
@@ -18093,33 +18093,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/jungle_pressure_plate_from_slab": {
-    "criteria": {
-      "has_jungle_slab": "2025-06-06 19:47:40 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_candle_from_light_gray_candle_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_shovel": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/fatigue_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_helmet": {
-    "criteria": {
-      "has_ender_eye": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -18141,33 +18117,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/judgment_poppet": {
-    "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2025-06-06 19:49:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_sword": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/green_concrete_powder_from_yellow_concrete_powder_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_void": {
-    "criteria": {
-      "has_core_specification_item": "2025-06-06 19:49:39 +0000"
     },
     "done": true
   },
@@ -18195,33 +18147,9 @@
     },
     "done": true
   },
-  "betternether:nether_wood": {
-    "criteria": {
-      "got_nether_reed": "2025-06-06 19:11:23 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/ender_eye_block": {
-    "criteria": {
-      "has_item": "2025-06-06 19:49:39 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_red_stained_glass_pane_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_pickaxe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
     },
     "done": true
   },
@@ -18243,45 +18171,15 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_axe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/jungle_table_slab": {
-    "criteria": {
-      "has_jungle": "2025-06-06 19:47:40 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_pickaxe": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/paper": {
-    "criteria": {
-      "has_nether_reed_stem": "2025-06-06 19:11:23 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/crossbows/crossbow_spellbound": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-06 19:42:39 +0000"
     },
     "done": true
   },
@@ -18321,12 +18219,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-06 19:46:29 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/light_blue_wool_from_light_gray_wool_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 19:53:53 +0000"
@@ -18339,9 +18231,21 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/death_protection_poppet": {
+  "mobs_of_mythology:mobs_of_mythology": {
     "criteria": {
-      "has_item": "2025-06-06 19:46:29 +0000"
+      "tick": "2025-06-07 03:04:21 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-06-07 03:04:41 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-06-07 03:04:41 +0000"
     },
     "done": true
   },
