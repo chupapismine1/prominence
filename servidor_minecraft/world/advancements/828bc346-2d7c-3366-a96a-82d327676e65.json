@@ -14447,9 +14447,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_trapdoor": {
+  "betterarcheology:recipes/tools/diamond_brush": {
     "criteria": {
-      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+      "has_diamond": "2025-06-07 22:18:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_item": "2025-06-07 22:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-06-07 22:23:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2025-06-07 22:23:10 +0000"
     },
     "done": true
   },
@@ -14465,12 +14483,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 22:37:46 +0000"
@@ -14483,21 +14495,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 22:37:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-06-07 22:38:15 +0000"
     },
     "done": true
   },
@@ -14507,21 +14507,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/netherite_candelabra": {
-    "criteria": {
-      "has_item": "2025-06-07 22:38:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 22:37:46 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
     },
     "done": true
   },
@@ -14549,27 +14537,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-06-07 22:38:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_item": "2025-06-07 22:23:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 22:37:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-06-07 22:38:13 +0000"
     },
     "done": true
   },
@@ -14585,39 +14555,69 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
-    "criteria": {
-      "has_wooden_sword": "2025-06-07 22:23:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-06-07 22:37:46 +0000"
     },
     "done": true
   },
-  "betterarcheology:recipes/tools/diamond_brush": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_diamond": "2025-06-07 22:18:57 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-06-07 22:38:13 +0000"
     },
     "done": true
   },
-  "netherchested:recipes/decorations/nether_chest": {
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
-      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+      "has_diamond_helmet": "2025-06-07 22:38:15 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_item": "2025-06-07 22:20:29 +0000"
+      "diamond_helmet": "2025-06-07 22:38:15 +0000"
     },
     "done": true
   },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
       "has_diamond_helmet": "2025-06-07 22:38:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-07 22:38:35 +0000"
     },
     "done": true
   },

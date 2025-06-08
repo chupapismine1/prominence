@@ -2247,3 +2247,334 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 25 more
+[17:22:34] [Server thread/INFO]: [Handshake] Sending channel query
+[17:22:34] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:22:34] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:22:35] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:59139] logged in with entity id 65 at (-698.9959764015204, 123.0, -477.3341871172034)
+[17:22:35] [Server thread/INFO]: Sending server config values to client
+[17:22:35] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:22:36] [Server thread/INFO]: Loading config from file...
+[17:22:37] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[17:22:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:22:37] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:22:37] [Server thread/INFO]: Loading Configs for Sortilege
+[17:22:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:22:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:22:37] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:22:37] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:22:37] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:22:37] [Server thread/INFO]: PLAYER_JOIN
+[17:22:37] [Server thread/INFO]: add_player wand
+[17:22:38] [Server thread/INFO]: config sent
+[17:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[17:22:40] [Netty Epoll Server IO #5/ERROR]: Error receiving packet 23
+io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.CustomPayloadS2CPacket.write(CustomPayloadS2CPacket.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.ClientConnection.sendInternal(ClientConnection.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.method_10761(ClientConnection.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:22:40] [Netty Epoll Server IO #5/WARN]: Packet:betterstats:s2c_bss caused an error above, printing name & data
+[17:22:40] [Netty Epoll Server IO #5/WARN]: Packet data:
+{
+  "field_12165": "betterstats:s2c_bss",
+  "field_12162": [
+    "Enable debugPrintMessages to display this data"
+  ],
+  "packetName": ""
+}
+[17:22:40] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:125) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.ClientConnection.sendInternal(ClientConnection.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.method_10761(ClientConnection.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.CustomPayloadS2CPacket.write(CustomPayloadS2CPacket.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	... 21 more
+[17:22:40] [Server thread/INFO]: sigan_viendo01 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+[17:22:40] [Server thread/INFO]: sigan_viendo01 left the game
+[17:22:40] [Server thread/INFO]: remove player wand
+[17:22:40] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:22:41] [Server thread/WARN]: handleDisconnection() called twice
+[17:22:48] [Server thread/INFO]: [Handshake] Sending channel query
+[17:22:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:22:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:22:48] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:40921] logged in with entity id 99 at (-698.9959764015204, 123.0, -477.3341871172034)
+[17:22:48] [Server thread/INFO]: Sending server config values to client
+[17:22:48] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:22:48] [Server thread/INFO]: Loading config from file...
+[17:22:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:22:48] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:22:48] [Server thread/INFO]: Loading Configs for Sortilege
+[17:22:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:22:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:22:48] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:22:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:22:48] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:22:48] [Server thread/INFO]: PLAYER_JOIN
+[17:22:48] [Server thread/INFO]: add_player wand
+[17:22:48] [Server thread/INFO]: config sent
+[17:22:50] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[17:22:50] [Netty Epoll Server IO #6/ERROR]: Error receiving packet 23
+io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.CustomPayloadS2CPacket.write(CustomPayloadS2CPacket.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.ClientConnection.sendInternal(ClientConnection.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.method_10761(ClientConnection.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:22:50] [Netty Epoll Server IO #6/WARN]: Packet:betterstats:s2c_bss caused an error above, printing name & data
+[17:22:50] [Netty Epoll Server IO #6/WARN]: Packet data:
+{
+  "field_12165": "betterstats:s2c_bss",
+  "field_12162": [
+    "Enable debugPrintMessages to display this data"
+  ],
+  "packetName": ""
+}
+[17:22:50] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:125) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.ClientConnection.sendInternal(ClientConnection.java:220) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.method_10761(ClientConnection.java:212) ~[server-intermediary.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
+	at io.netty.buffer.AbstractByteBuf.ensureAccessible(AbstractByteBuf.java:1454) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1383) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.UnpooledHeapByteBuf.copy(UnpooledHeapByteBuf.java:534) ~[netty-buffer-4.1.82.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.copy(AbstractByteBuf.java:1194) ~[netty-buffer-4.1.82.Final.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketByteBuf.copy(PacketByteBuf.java:1628) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.s2c.play.CustomPayloadS2CPacket.write(CustomPayloadS2CPacket.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-intermediary.jar:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar:?]
+	... 21 more
+[17:22:50] [Server thread/INFO]: sigan_viendo01 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: io.netty.util.IllegalReferenceCountException: refCnt: 0
+[17:22:50] [Server thread/INFO]: sigan_viendo01 left the game
+[17:22:50] [Server thread/INFO]: remove player wand
+[17:22:50] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:22:59] [Server thread/INFO]: [Handshake] Sending channel query
+[17:22:59] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[17:22:59] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[17:22:59] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:37205] logged in with entity id 207 at (-698.9959764015204, 123.0, -477.3341871172034)
+[17:22:59] [Server thread/INFO]: Sending server config values to client
+[17:22:59] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:22:59] [Server thread/INFO]: Loading config from file...
+[17:23:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:23:00] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:23:00] [Server thread/INFO]: Loading Configs for Sortilege
+[17:23:00] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:23:00] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:23:00] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:23:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:23:00] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:23:00] [Server thread/INFO]: PLAYER_JOIN
+[17:23:00] [Server thread/INFO]: add_player wand
+[17:23:00] [Server thread/INFO]: config sent
+[17:23:01] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[17:23:02] [Netty Epoll Server IO #7/INFO]: Channel update: sigan_viendo01 -> default
+[17:23:02] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[17:23:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:23:07] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:23:07] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:23:32] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[17:23:32] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[17:24:32] [Server thread/INFO]: No return portal found
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:32] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:24:33] [Server thread/INFO]: sigan_viendo01 was slain by Kobold Warrior
+[17:24:33] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.24.33.dat
+[17:24:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:25:08] [Server thread/INFO]: [Handshake] Sending channel query
+[17:25:08] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[17:25:08] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[17:25:08] [Server thread/INFO]: sigan_viendo01 lost connection: You logged in from another location
+[17:25:08] [Server thread/INFO]: sigan_viendo01 left the game
+[17:25:08] [Server thread/INFO]: remove player wand
+[17:25:08] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:25:08] [Server thread/WARN]: handleDisconnection() called twice
+[17:25:08] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:53421] logged in with entity id 962 at (-700.5, 128.0, -480.5)
+[17:25:08] [Server thread/INFO]: Sending server config values to client
+[17:25:08] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:25:08] [Server thread/INFO]: Loading config from file...
+[17:25:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:25:09] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:25:09] [Server thread/INFO]: Loading Configs for Sortilege
+[17:25:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:25:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:25:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:25:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:25:09] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:25:09] [Server thread/INFO]: PLAYER_JOIN
+[17:25:09] [Server thread/INFO]: add_player wand
+[17:25:09] [Server thread/INFO]: config sent
+[17:25:10] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[17:25:11] [Netty Epoll Server IO #0/INFO]: Channel update: sigan_viendo01 -> default
+[17:25:11] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[17:25:15] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:26:20] [Server thread/INFO]: No return portal found
+[17:26:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:26:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:26:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:27:13] [Worker-Main-34/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2068, l='ServerLevel[world]', x=-301.00, y=31.00, z=-427.00] as it would cause deadlock
+[17:27:13] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/2070, l='ServerLevel[world]', x=-301.00, y=31.00, z=-427.00] as it would cause deadlock
+[17:27:41] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[17:27:55] [Server thread/INFO]: sigan_viendo01 died
+[17:27:55] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.27.55.dat
+[17:27:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:28:57] [Server thread/INFO]: No return portal found
+[17:28:57] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:29:30] [Server thread/INFO]: sigan_viendo01 was burnt to a crisp whilst fighting Blaze Guardian
+[17:29:30] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.29.30.dat
+[17:29:31] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:29:34] [Server thread/INFO]: [Handshake] Sending channel query
+[17:29:34] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[17:29:34] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[17:29:35] [Server thread/WARN]: Ignored advancement 'mythicmobs:mythicmobs' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'betterarcheology:recipes/recipe_iron_brush' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'beachparty:mini_fridge' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'beachparty:palm_tall_torch' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'beachparty:bikini' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'betterarcheology:recipes/recipe_diamond_brush' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/WARN]: Ignored advancement 'beachparty:palm_chest_boat' in progress file ./world/advancements/02163ba2-52be-3ebb-8653-0482530027fe.json - it doesn't exist anymore?
+[17:29:35] [Server thread/INFO]: Xander_Aqp[/127.98.12.191:59345] logged in with entity id 3864 at (-696.1161141423843, 120.0, -477.4241532156288)
+[17:29:35] [Server thread/INFO]: Sending server config values to client
+[17:29:35] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[17:29:35] [Server thread/INFO]: Loading config from file...
+[17:29:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:29:35] [Server thread/INFO]: Xander_Aqp joined the game
+[17:29:35] [Server thread/INFO]: Loading Configs for Sortilege
+[17:29:35] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:29:35] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:29:35] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:29:35] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:29:35] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:35] [Server thread/INFO]: PLAYER_JOIN
+[17:29:35] [Server thread/INFO]: add_player wand
+[17:29:35] [Server thread/INFO]: config sent
+[17:29:35] [Server thread/INFO]: Xander_Aqp has made the advancement [Mobs of Mythology]
