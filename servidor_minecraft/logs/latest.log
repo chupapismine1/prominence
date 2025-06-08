@@ -2578,3 +2578,156 @@ Caused by: io.netty.util.IllegalReferenceCountException: refCnt: 0
 [17:29:35] [Server thread/INFO]: add_player wand
 [17:29:35] [Server thread/INFO]: config sent
 [17:29:35] [Server thread/INFO]: Xander_Aqp has made the advancement [Mobs of Mythology]
+[17:29:37] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[17:29:37] [Server thread/INFO]: Xander_Aqp left the game
+[17:29:37] [Server thread/INFO]: remove player wand
+[17:29:37] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:39] [Server thread/INFO]: [Handshake] Sending channel query
+[17:29:39] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[17:29:39] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[17:29:40] [Server thread/INFO]: Xander_Aqp[/127.98.12.191:46691] logged in with entity id 3886 at (-696.1161141423843, 120.0, -477.4241532156288)
+[17:29:40] [Server thread/INFO]: Sending server config values to client
+[17:29:40] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[17:29:40] [Server thread/INFO]: Loading config from file...
+[17:29:40] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:29:40] [Server thread/INFO]: Xander_Aqp joined the game
+[17:29:40] [Server thread/INFO]: Loading Configs for Sortilege
+[17:29:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:29:40] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:29:40] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:29:40] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:29:40] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:40] [Server thread/INFO]: PLAYER_JOIN
+[17:29:40] [Server thread/INFO]: add_player wand
+[17:29:40] [Server thread/INFO]: config sent
+[17:29:42] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[17:29:42] [Server thread/INFO]: Xander_Aqp left the game
+[17:29:42] [Server thread/INFO]: remove player wand
+[17:29:42] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:53] [Server thread/INFO]: [Handshake] Sending channel query
+[17:29:54] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:29:54] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:29:54] [Server thread/INFO]: Xander_Aqp[/127.98.12.191:46869] logged in with entity id 3914 at (-696.1161141423843, 120.0, -477.4241532156288)
+[17:29:54] [Server thread/INFO]: Sending server config values to client
+[17:29:54] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[17:29:54] [Server thread/INFO]: Loading config from file...
+[17:29:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:29:54] [Server thread/INFO]: Xander_Aqp joined the game
+[17:29:54] [Server thread/INFO]: Loading Configs for Sortilege
+[17:29:54] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:29:54] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:29:54] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:29:54] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:29:54] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:54] [Server thread/INFO]: PLAYER_JOIN
+[17:29:54] [Server thread/INFO]: add_player wand
+[17:29:54] [Server thread/INFO]: config sent
+[17:29:55] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[17:29:55] [Server thread/INFO]: Xander_Aqp left the game
+[17:29:55] [Server thread/INFO]: remove player wand
+[17:29:55] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:58] [Server thread/INFO]: [Handshake] Sending channel query
+[17:29:58] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:29:58] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:29:58] [Server thread/INFO]: Xander_Aqp[/127.98.12.191:37859] logged in with entity id 3929 at (-696.1161141423843, 120.0, -477.4241532156288)
+[17:29:58] [Server thread/INFO]: Sending server config values to client
+[17:29:58] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[17:29:58] [Server thread/INFO]: Loading config from file...
+[17:29:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:29:58] [Server thread/INFO]: Xander_Aqp joined the game
+[17:29:58] [Server thread/INFO]: Loading Configs for Sortilege
+[17:29:58] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:29:58] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:29:58] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:29:58] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:29:58] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:29:58] [Server thread/INFO]: PLAYER_JOIN
+[17:29:58] [Server thread/INFO]: add_player wand
+[17:29:58] [Server thread/INFO]: config sent
+[17:30:00] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[17:30:00] [Server thread/INFO]: Xander_Aqp left the game
+[17:30:00] [Server thread/INFO]: remove player wand
+[17:30:00] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:30:06] [Server thread/INFO]: No return portal found
+[17:30:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:31:17] [Server thread/INFO]: sigan_viendo01 was slain by Hoglin
+[17:31:17] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.31.17.dat
+[17:31:19] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:33:48] [Server thread/INFO]: No return portal found
+[17:33:48] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:35:06] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -17, 39, -320, minecraft:the_nether
+[17:35:42] [Server thread/INFO]: [Handshake] Sending channel query
+[17:35:43] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[17:35:43] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[17:35:43] [Server thread/INFO]: Xander_Aqp[/127.98.12.191:55737] logged in with entity id 7298 at (-696.1161141423843, 120.0, -477.4241532156288)
+[17:35:43] [Server thread/INFO]: Sending server config values to client
+[17:35:43] [Server thread/INFO]: Syncing config to Xander_Aqp (02163ba2-52be-3ebb-8653-0482530027fe)
+[17:35:43] [Server thread/INFO]: Loading config from file...
+[17:35:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:35:43] [Server thread/INFO]: Xander_Aqp joined the game
+[17:35:43] [Server thread/INFO]: Loading Configs for Sortilege
+[17:35:43] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:35:43] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:35:43] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:35:43] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:35:43] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:35:43] [Server thread/INFO]: PLAYER_JOIN
+[17:35:43] [Server thread/INFO]: add_player wand
+[17:35:43] [Server thread/INFO]: config sent
+[17:35:44] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[17:35:46] [Netty Epoll Server IO #0/INFO]: Channel update: Xander_Aqp -> default
+[17:35:46] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Xander_Aqp. Claiming: GRAVE / Robbing: INVENTORY
+[17:35:46] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 2, 52, -346, minecraft:the_nether
+[17:35:49] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Xander_Aqp accepted server config.
+[17:35:55] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$com000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[17:37:33] [Server thread/INFO]: sigan_viendo01 tried to swim in lava
+[17:37:33] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.37.33.dat
+[17:37:34] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:38:22] [Server thread/INFO]: No return portal found
+[17:38:22] [Server thread/INFO]: Xander_Aqp has made the advancement [We Need to Go Deeper]
+[17:38:22] [Server thread/INFO]: Xander_Aqp has made the advancement [Nether Depths Upgrade]
+[17:38:22] [Server thread/INFO]: Xander_Aqp has made the advancement [Time for a Sweat]
+[17:38:22] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Xander_Aqp accepted server config.
+[17:38:23] [Server thread/INFO]: Xander_Aqp has made the advancement [Those Were the Days]
+[17:38:23] [Server thread/INFO]: No return portal found
+[17:38:23] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.

@@ -14621,5 +14621,119 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/purple_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/black_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/lime_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/orange_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/yellow_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/cyan_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/brown_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/pink_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/green_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/magenta_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/red_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/packed_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/white_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
