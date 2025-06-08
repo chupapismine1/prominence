@@ -1539,6 +1539,7 @@
       "minecraft:pillager": "2025-06-05 02:20:11 +0000",
       "minecraft:blaze": "2025-06-06 03:09:56 +0000",
       "minecraft:skeleton": "2025-06-05 03:24:23 +0000",
+      "minecraft:ghast": "2025-06-08 18:04:08 +0000",
       "minecraft:hoglin": "2025-06-06 02:49:12 +0000",
       "minecraft:vindicator": "2025-06-05 02:38:30 +0000",
       "minecraft:piglin": "2025-06-05 22:35:04 +0000",
@@ -11067,9 +11068,11 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-06-06 03:01:46 +0000",
       "betternether:upside_down_forest_cleared": "2025-06-05 22:34:46 +0000",
+      "betternether:old_swampland": "2025-06-08 17:59:17 +0000",
       "betternether:nether_swampland": "2025-06-06 02:43:35 +0000",
       "betternether:magma_land": "2025-06-05 22:34:26 +0000",
       "betternether:nether_jungle": "2025-06-06 03:01:38 +0000",
+      "betternether:wart_forest": "2025-06-08 18:02:59 +0000",
       "betternether:soul_plain": "2025-06-06 03:01:48 +0000"
     },
     "done": false
@@ -14744,6 +14747,18 @@
   "beachparty:recipes/palm_torch": {
     "criteria": {
       "has_bamboo": "2025-06-08 17:37:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-08 18:00:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-08 18:00:55 +0000"
     },
     "done": true
   },
