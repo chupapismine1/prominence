@@ -2731,3 +2731,85 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [17:38:23] [Server thread/INFO]: Xander_Aqp has made the advancement [Those Were the Days]
 [17:38:23] [Server thread/INFO]: No return portal found
 [17:38:23] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:39:59] [Server thread/ERROR]: Grave could not be replaced at X: 2, Y: 28, Z: -337 / minecraft:the_nether
+[17:39:59] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 2, 28, -337, minecraft:the_nether
+[17:40:00] [Server thread/INFO]: sigan_viendo01 tried to swim in lava
+[17:40:00] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.40.00.dat
+[17:40:02] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:40:53] [Server thread/INFO]: No return portal found
+[17:40:53] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:42:19] [Server thread/INFO]: sigan_viendo01 withered away
+[17:42:19] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.42.19.dat
+[17:42:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:42:27] [Server thread/INFO]: sigan_viendo01 lost connection: Disconnected
+[17:42:27] [Server thread/INFO]: sigan_viendo01 left the game
+[17:42:27] [Server thread/INFO]: remove player wand
+[17:42:27] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:44:50] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[17:45:05] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.redirect$com000$connectivity$checkDecodingError(DecoderHandler.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[17:46:23] [Server thread/INFO]: Xander_Aqp burned to death
+[17:46:25] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Xander_Aqp accepted server config.
+[17:47:08] [Server thread/INFO]: [Handshake] Sending channel query
+[17:47:08] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:47:08] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:47:09] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:59531] logged in with entity id 13338 at (-700.5, 128.0, -480.5)
+[17:47:09] [Server thread/INFO]: Sending server config values to client
+[17:47:09] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:47:09] [Server thread/INFO]: Loading config from file...
+[17:47:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:47:09] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:47:09] [Server thread/INFO]: Loading Configs for Sortilege
+[17:47:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:47:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:47:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:47:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:47:09] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:47:09] [Server thread/INFO]: PLAYER_JOIN
+[17:47:09] [Server thread/INFO]: add_player wand
+[17:47:09] [Server thread/INFO]: config sent
+[17:47:12] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[17:47:33] [Netty Epoll Server IO #5/INFO]: Channel update: sigan_viendo01 -> default
+[17:47:33] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[17:47:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:50:10] [Server thread/INFO]: No return portal found
+[17:50:11] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.

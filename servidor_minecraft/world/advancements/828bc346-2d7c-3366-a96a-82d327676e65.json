@@ -14663,6 +14663,12 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-06-08 17:37:10 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
@@ -14720,6 +14726,12 @@
   "twigs:recipes/silt/red_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-06-08 17:37:10 +0000"
     },
     "done": true
   },
