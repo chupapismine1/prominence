@@ -14621,15 +14621,21 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/purple_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-06-08 17:27:51 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-06-08 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/purple_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-06-08 17:27:51 +0000"
     },
     "done": true
   },
@@ -14663,12 +14669,6 @@
     },
     "done": true
   },
-  "beachparty:recipes/palm_tall_torch": {
-    "criteria": {
-      "has_coal": "2025-06-08 17:37:10 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
@@ -14678,12 +14678,6 @@
   "twigs:recipes/silt/brown_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_silt_balls": {
-    "criteria": {
-      "has_item": "2025-06-08 17:27:41 +0000"
     },
     "done": true
   },
@@ -14729,12 +14723,6 @@
     },
     "done": true
   },
-  "beachparty:recipes/palm_torch": {
-    "criteria": {
-      "has_bamboo": "2025-06-08 17:37:10 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/silt/packed_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
@@ -14744,6 +14732,18 @@
   "twigs:recipes/silt/white_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2025-06-08 17:27:51 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-06-08 17:37:10 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-06-08 17:37:10 +0000"
     },
     "done": true
   },

@@ -2813,3 +2813,72 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [17:47:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
 [17:50:10] [Server thread/INFO]: No return portal found
 [17:50:11] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:50:43] [Server thread/INFO]: Villager class_1646['Evangeline'/13050, l='ServerLevel[world]', x=-678.44, y=119.00, z=-503.02] died, message: 'Evangeline was slain by Kobold Warrior'
+[17:50:43] [Server thread/INFO]: Named entity class_1646['Evangeline'/13050, l='ServerLevel[world]', x=-678.44, y=119.00, z=-503.02] died: Evangeline was slain by Kobold Warrior
+[17:50:46] [Server thread/INFO]: Villager class_1646['Adrian'/13077, l='ServerLevel[world]', x=-679.56, y=118.90, z=-496.06] died, message: 'Adrian was slain by Kobold Warrior'
+[17:50:46] [Server thread/INFO]: Named entity class_1646['Adrian'/13077, l='ServerLevel[world]', x=-679.56, y=118.90, z=-496.06] died: Adrian was slain by Kobold Warrior
+[17:50:51] [Server thread/INFO]: Villager class_1646['Sharmaine'/13048, l='ServerLevel[world]', x=-684.45, y=118.00, z=-493.34] died, message: 'Sharmaine was slain by Kobold Warrior'
+[17:50:51] [Server thread/INFO]: Named entity class_1646['Sharmaine'/13048, l='ServerLevel[world]', x=-684.45, y=118.00, z=-493.34] died: Sharmaine was slain by Kobold Warrior
+[17:50:54] [Server thread/INFO]: Villager class_1646['Luis'/13049, l='ServerLevel[world]', x=-679.01, y=119.59, z=-493.83] died, message: 'Luis was slain by Kobold Warrior'
+[17:50:54] [Server thread/INFO]: Named entity class_1646['Luis'/13049, l='ServerLevel[world]', x=-679.01, y=119.59, z=-493.83] died: Luis was slain by Kobold Warrior
+[17:50:57] [Server thread/INFO]: Villager class_1646['Patty'/13079, l='ServerLevel[world]', x=-679.66, y=118.62, z=-498.73] died, message: 'Patty was slain by Kobold Warrior'
+[17:50:57] [Server thread/INFO]: Named entity class_1646['Patty'/13079, l='ServerLevel[world]', x=-679.66, y=118.62, z=-498.73] died: Patty was slain by Kobold Warrior
+[17:51:01] [Server thread/INFO]: Villager class_1646['Clayton'/13080, l='ServerLevel[world]', x=-685.54, y=118.56, z=-502.07] died, message: 'Clayton was slain by Kobold Warrior'
+[17:51:01] [Server thread/INFO]: Named entity class_1646['Clayton'/13080, l='ServerLevel[world]', x=-685.54, y=118.56, z=-502.07] died: Clayton was slain by Kobold Warrior
+[17:51:06] [Server thread/INFO]: Villager class_1646['Florida'/13052, l='ServerLevel[world]', x=-679.45, y=118.56, z=-492.47] died, message: 'Florida was slain by Kobold Warrior'
+[17:51:06] [Server thread/INFO]: Named entity class_1646['Florida'/13052, l='ServerLevel[world]', x=-679.45, y=118.56, z=-492.47] died: Florida was slain by Kobold Warrior
+[17:51:10] [Server thread/INFO]: Villager class_1646['Earle'/13046, l='ServerLevel[world]', x=-684.71, y=119.00, z=-493.67] died, message: 'Earle was slain by Kobold Warrior'
+[17:51:10] [Server thread/INFO]: Named entity class_1646['Earle'/13046, l='ServerLevel[world]', x=-684.71, y=119.00, z=-493.67] died: Earle was slain by Kobold Warrior
+[17:51:13] [Server thread/INFO]: Villager class_1646['Rivka'/13078, l='ServerLevel[world]', x=-685.48, y=118.88, z=-497.21] died, message: 'Rivka was slain by Kobold Warrior'
+[17:51:13] [Server thread/INFO]: Named entity class_1646['Rivka'/13078, l='ServerLevel[world]', x=-685.48, y=118.88, z=-497.21] died: Rivka was slain by Kobold Warrior
+[17:51:15] [Server thread/INFO]: Villager class_1646['Gale'/13051, l='ServerLevel[world]', x=-683.56, y=118.00, z=-500.78] died, message: 'Gale was slain by Kobold Warrior'
+[17:51:15] [Server thread/INFO]: Named entity class_1646['Gale'/13051, l='ServerLevel[world]', x=-683.56, y=118.00, z=-500.78] died: Gale was slain by Kobold Warrior
+[17:51:19] [Server thread/INFO]: Villager class_1646['Mila'/13076, l='ServerLevel[world]', x=-684.60, y=119.42, z=-504.00] died, message: 'Mila was slain by Kobold Warrior'
+[17:51:19] [Server thread/INFO]: Named entity class_1646['Mila'/13076, l='ServerLevel[world]', x=-684.60, y=119.42, z=-504.00] died: Mila was slain by Kobold Warrior
+[17:51:22] [Server thread/INFO]: Villager class_1646['Corrie'/13047, l='ServerLevel[world]', x=-679.01, y=118.92, z=-501.95] died, message: 'Corrie was slain by Kobold Warrior'
+[17:51:22] [Server thread/INFO]: Named entity class_1646['Corrie'/13047, l='ServerLevel[world]', x=-679.01, y=118.92, z=-501.95] died: Corrie was slain by Kobold Warrior
+[17:52:33] [Server thread/INFO]: sigan_viendo01 tried to swim in lava
+[17:52:33] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.52.33.dat
+[17:52:35] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:53:30] [Server thread/INFO]: No return portal found
+[17:53:31] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:54:14] [Server thread/INFO]: sigan_viendo01 was fireballed by Blaze Guardian
+[17:54:14] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.melon_08.06.2025-17.54.14.dat
+[17:54:14] [Server thread/INFO]: sigan_viendo01 lost connection: Disconnected
+[17:54:14] [Server thread/INFO]: sigan_viendo01 left the game
+[17:54:14] [Server thread/INFO]: remove player wand
+[17:54:14] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:54:18] [Server thread/INFO]: [Handshake] Sending channel query
+[17:54:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:54:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:54:19] [Server thread/INFO]: sigan_viendo01[/127.197.126.137:43975] logged in with entity id 16791 at (-89.5065556127015, 53.17675927506424, -178.90813900081397)
+[17:54:19] [Server thread/INFO]: Sending server config values to client
+[17:54:19] [Server thread/INFO]: Syncing config to sigan_viendo01 (828bc346-2d7c-3366-a96a-82d327676e65)
+[17:54:19] [Server thread/INFO]: Loading config from file...
+[17:54:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:54:19] [Server thread/INFO]: sigan_viendo01 joined the game
+[17:54:19] [Server thread/INFO]: Loading Configs for Sortilege
+[17:54:19] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[17:54:19] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[17:54:19] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[17:54:19] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:54:19] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
+[17:54:19] [Server thread/INFO]: PLAYER_JOIN
+[17:54:19] [Server thread/INFO]: add_player wand
+[17:54:19] [Server thread/INFO]: config sent
+[17:54:20] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[17:54:21] [Netty Epoll Server IO #6/INFO]: Channel update: sigan_viendo01 -> default
+[17:54:21] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player sigan_viendo01. Claiming: GRAVE / Robbing: INVENTORY
+[17:54:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:54:34] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:56:26] [Server thread/INFO]: No return portal found
+[17:56:26] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[17:57:09] [Server thread/ERROR]: Grave could not be replaced at X: 2, Y: 29, Z: -336 / minecraft:the_nether
+[17:57:09] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 2, 29, -336, minecraft:the_nether
+[17:58:10] [Server thread/INFO]: Xander_Aqp lost connection: Disconnected
+[17:58:10] [Server thread/INFO]: Xander_Aqp left the game
+[17:58:10] [Server thread/INFO]: remove player wand
+[17:58:10] [Server thread/INFO]: Updating all forceload tickets for 02163ba2-52be-3ebb-8653-0482530027fe
+[17:58:39] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[17:59:10] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -90, 53, -179, minecraft:the_nether
